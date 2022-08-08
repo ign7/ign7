@@ -1,14 +1,14 @@
-let igorFrederico = {
+let IgorFrederico = {
 
-idade: 21,
+Age: 21,
 
-pais: 'Brasil',
+Country: 'Brasil',
 
-estado: 'minas Gerais',
+State: 'minas Gerais',
 
-actualStack: 'JavaScript',
+ActualStack: 'JavaScript',
 
-futuresStacks: ['react.JS','vue.JS']
+FuturesStacks: ['react.JS' , 'vue.JS']
 
 }
 
