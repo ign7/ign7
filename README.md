@@ -4,7 +4,7 @@ Age: 21,
 
 Country: 'Brasil',
 
-State: 'minas Gerais',
+State: 'Minas Gerais',
 
 ActualStack: ['JavaScript','C#','Java'],
 
