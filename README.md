@@ -6,7 +6,7 @@ Country: 'Brasil',
 
 State: 'Minas Gerais',
 
-ActualStack: ['JavaScript','C#','Java android','PHP'],
+ActualStack: ['JavaScript','C#','Java ','PHP'],
 
 FuturesStacks: ['react.JS' , 'vue.JS']
 
