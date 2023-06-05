@@ -8,7 +8,7 @@ State: 'Minas Gerais',
 
 ActualStack: ['JavaScript','java','PHP','C#'],
 
-FuturesStacks: ['react.JS' , 'vue.js',typescipt]
+Stacks: ['react.JS' ,'Angular','Spring']
 
 }
 
