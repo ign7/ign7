@@ -6,9 +6,9 @@ Country: 'Brasil',
 
 State: 'Minas Gerais',
 
-ActualStack: ['JavaScript','java','PHP','C#'],
+ActualStack: ['Java','javaScript','PHP','C#'],
 
-Stacks: ['react.JS' ,'Angular','Spring']
+FrameWork: ['Spring' ,'Angular','reactJS']
 
 }
 
