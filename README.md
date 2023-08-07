@@ -8,7 +8,7 @@ State: 'Minas Gerais',
 
 ActualStack: ['Java','javaScript','PHP','C#'],
 
-FrameWork: ['Spring' ,'Angular','reactJS']
+FrameWorks: ['Spring' ,'ASP.NET' ,'Angular','reactJS']
 
 }
 
