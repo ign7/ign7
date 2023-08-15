@@ -1,4 +1,4 @@
-😎 Hi!
+😎 Hi! I'm
 Igor Frederico Gomes Quaresma 
 
 # 💻 Software Developer | 🌎 A constant learner
