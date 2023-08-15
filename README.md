@@ -1,10 +1,13 @@
 😎 Hi!
 Igor Frederico Gomes Quaresma 
 
-💻 Software Developer | 🌎 A constant learner
+# 💻 Software Developer | 🌎 A constant learner
+### Fullstack
+
 
 Sistemas De Informação | Puc Minas.
-Fullstack
+
+
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ign7&show_icons=true&theme=tokyonight"/>
