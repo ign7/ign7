@@ -1,4 +1,3 @@
- 
 Igor Frederico Gomes Quaresma 
 
 # 💻 Software Developer | 🌎 A constant learner
