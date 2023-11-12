@@ -31,6 +31,7 @@ Sistemas De Informação | Puc Minas.
 
 <div>
 <img  align="center" alt="-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img align="center" alt="-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg" />
 <img  align="center" alt="-html" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> 
 <img  align="center" alt="-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />          
 <img align="center" alt="-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
