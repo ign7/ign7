@@ -31,7 +31,7 @@ Software Developer focused on scalable systems, ERP platforms, APIs, dashboards 
 
 </td>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎨 Frontend
 
@@ -89,7 +89,7 @@ Software Developer focused on scalable systems, ERP platforms, APIs, dashboards 
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### System Development
 
@@ -101,7 +101,7 @@ Software Developer focused on scalable systems, ERP platforms, APIs, dashboards 
 
 </td>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### Technical Experience
 
