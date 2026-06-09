@@ -1,4 +1,4 @@
-melhore o meu read me  <h1 align="center">👨‍💻 Igor Frederico Gomes Quaresma</h1>
+<h1 align="center">👨‍💻 Igor Frederico Gomes Quaresma</h1>
 <h3 align="center">🚀 Full Stack Laravel Developer</h3>
 <p align="center">
 Software Developer focused on scalable systems, ERP platforms, APIs, dashboards and business solutions.
