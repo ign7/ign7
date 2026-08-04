@@ -107,17 +107,6 @@
 
 <hr>
 
-<h2 align="center">📚 Documentation</h2>
-
-<ul>
-  <li><a href="docs/livewire_render_test.md">Como criar os testes de Livewire</a></li>
-  <li><a href="docs/route_test.md">Como criar os testes de rotas</a></li>
-  <li><a href="docs/powergrid_colum_export.md">Como formatar colunas sem exibir estilo ao exportar</a></li>
-  <li><a href="docs/using_report_service.md">Como usar Report Service</a></li>
-</ul>
-
-<hr>
-
 <h2 align="center">🌍 Connect With Me</h2>
 
 <p align="center">
